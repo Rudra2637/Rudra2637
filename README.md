@@ -1,6 +1,7 @@
-- Hi, I’m @Rudra2637
-- I’m interested in coding..
-- I’m currently learning c++...
+- Hi, I’m Rudra
+- I’m interested in competative programming and currently upgrading my self in this very field.
+- I know CPP,HTML and CSS.
+- Currently in learning phase gonna learn more languages in future.
 
 
 <!---
