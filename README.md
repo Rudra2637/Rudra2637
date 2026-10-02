@@ -1,32 +1,49 @@
-<h1 align="center">Hi 👋, I'm Rudra</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra2637&label=Profile%20views&color=0e75b6&style=flat" alt="rudra2637" /> </p>
+# Hi 👋, I'm Rudra
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudra2637" alt="rudra2637" /></a> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rudra pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra pratap singh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rudra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rudra0013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rudra0013" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rudra0023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rudra0023" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rudra2637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra2637" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/singhrudra2637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="singhrudra2637" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/singhrud3rhb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singhrud3rhb" height="30" width="40" /></a>
-</p>
+| **Software Engineer.** Building scalable products that create real impact. | [Portfolio](https://rudra-singh.me/) · [LinkedIn](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) · [X](https://x.com/Rudra1071219) . [LeetCode](https://leetcode.com/u/Rudra2637/)|
+|---|---|
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm an open-source contributor who builds scalable systems, AI-powered tools, and developer products that make a difference.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra2637&show_icons=true&locale=en&layout=compact" alt="rudra2637" /></p>
+## Open Source, Projects & Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra2637&show_icons=true&locale=en" alt="rudra2637" /></p>
+- **35+ merged open-source PRs** across **Corsair, Mastra, Sugar Labs, Nano Collective, Meshery**, and more
+- Building **[AI Ticket Assistant](https://github.com/Rudra2637/Ai-Ticket-Assistant)**, an AI-powered ticket and support management app, being turned into an open-source CLI tool (shipping soon)
+- Creator of **[Oneplace](https://one-place-snowy.vercel.app/)**, a curated hub for system design guides, LeetCode roadmaps, backend concepts, architecture case studies, and open-source repos, all in one place
+- Built **[CmdCraft](https://github.com/Rudra2637/cmdcraft)**, a Python AI-powered command-line assistant with interactive chat, DSA coding help, weather forecasts, and movie and song recommendations, all from the terminal
+- Built a **[LinkedIn Profile API](https://search-profile-six.vercel.app/)**, a headless-browser-free REST API that fetches structured LinkedIn profile data by reverse-engineering the Voyager API, with zero browser automation
+- Completed **Software Engineering internship**, shipping frontend and backend fixes and debugging a wide range of production issues
+- Solved **400+ DSA problems** on LeetCode and other platforms
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra2637&" alt="rudra2637" /></p>
+## Tech Stack
 
+**Languages**<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<!---
-Rudra2637/Rudra2637 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**AI & DevOps**<br>
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E40C9?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
