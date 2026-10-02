@@ -11,7 +11,7 @@ I'm an open-source contributor who builds scalable systems, AI-powered tools, an
 
 ## Open Source, Projects & Experience
 
-- **35+ merged open-source PRs** across **Corsair, Mastra, Sugar Labs, Nano Collective, Meshery**, and more
+- **35+ merged open-source PRs** across **[Corsair](https://github.com/corsairdev/corsair), [Mastra](https://github.com/mastra-ai/mastra), [Sugar Labs](https://github.com/sugarlabs/musicblocks), [Nano Collective](https://github.com/Nano-Collective/nanocoder), [Meshery](https://github.com/meshery)**, and more
 - Building **[AI Ticket Assistant](https://github.com/Rudra2637/Ai-Ticket-Assistant)**, an AI-powered ticket and support management app, being turned into an open-source CLI tool (shipping soon)
 - Creator of **[Oneplace](https://one-place-snowy.vercel.app/)**, a curated hub for system design guides, LeetCode roadmaps, backend concepts, architecture case studies, and open-source repos, all in one place
 - Built **[CmdCraft](https://github.com/Rudra2637/cmdcraft)**, a Python AI-powered command-line assistant with interactive chat, DSA coding help, weather forecasts, and movie and song recommendations, all from the terminal
