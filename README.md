@@ -4,7 +4,7 @@
 
 </div>
 
-| **Software Engineer.** Building scalable products that create real impact. | [Portfolio](https://rudra-singh.me/) · [LinkedIn](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) · [X](https://x.com/Rudra1071219) . [LeetCode](https://leetcode.com/u/Rudra2637/)|
+| **Software Engineer.** Building scalable products that create real impact. | [Portfolio](https://rudra-singh.me/) · [LinkedIn](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) · [LeetCode](https://leetcode.com/u/Rudra2637/)|
 |---|---|
 
 I'm an open-source contributor who builds scalable systems, AI-powered tools, and developer products that make a difference.
